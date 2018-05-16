@@ -1,11 +1,17 @@
 /* make sure you add the link tag to link to exercise.css which is in ../base-css directory*/
 
 /* add an id to the top level h1 header called first-header*/
-
+#first-header {
+		font-family: "Comic Sans MS", cursive, sans-serif;
+	
+}
 /* change the color of the first-header to purple and set font-family to Roboto*/
 
 /* add a class to both h2 headers called second-header */
-
+#second-header {
+	
+	
+}
 /* change the background color of each h2 to gold */
 
 
